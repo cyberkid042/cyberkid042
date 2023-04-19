@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **Roku, React, Vue, Laravel.**
 
-- ⚡ Fun fact: **I hop on new frameworks and langauges like a frog.**
+- ⚡ Fun fact: **I still don't fully understand Typescript**
 
 
 <h3 align="left">Languages and Tools:</h3>
