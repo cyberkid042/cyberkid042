@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **a side project that might help people.**
 
-- 🌱 I’m currently learning **Dynamic Programming and Game Development in Godot and Unity**
+- 🌱 I’m currently learning **Dynamic Programming and Game Development in Unity**
 
 - 💬 Ask me about **Roku, React, Vue, Laravel.**
 
