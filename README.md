@@ -1,13 +1,13 @@
-<h1 align="center">Hi 👋, I'm O.B</h1>
-<h3 align="center">A passionate Software developer</h3>
+<h1 align="center">Hi 👋, I am O B</h1>
+<h3 align="center">A passionate Software Engineer</h3>
 
-- 🔭 I’m currently working on **a side project that might help people.**
+- 🔭 I’m currently working on **growing as a better engineer**
 
 - 🌱 I’m currently learning **Dynamic Programming and Game Development in Unity**
 
 - 💬 Ask me about **Roku, React, Vue, Laravel.**
 
-- ⚡ Fun fact: **I still don't fully understand Typescript**
+- ⚡ Fun fact: **Finding a bug in an existing codebase can be painful, BUT there is a thing of joy when it is fixed**
 
 
 <h3 align="left">Languages and Tools:</h3>
