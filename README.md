@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I am O B</h1>
 <h3 align="center">A passionate Software Engineer</h3>
 
-- 🔭 I’m currently working on **growing as a better engineer**
+- 🔭 I’m currently working on **a "side project/startup"**
 
 - 🌱 I’m currently learning **Dynamic Programming and Game Development in Unity**
 
