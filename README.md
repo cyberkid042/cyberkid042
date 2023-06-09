@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Dynamic Programming and Game Development**
 
-- 💬 Ask me about **Roku, React, Vue, Laravel.**
+- 💬 Ask me about **Roku, React, React Native, VueJS, Laravel.**
 
 - ⚡ Fun fact: **Finding a bug in an existing codebase can be painful, BUT there is a thing of joy when it is fixed**
 
