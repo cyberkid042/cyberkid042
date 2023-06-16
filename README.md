@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **Roku, React, React Native, VueJS, Laravel.**
 
-- ⚡ Fun fact: **Finding a bug in an existing codebase can be painful, BUT there is a thing of joy when it is fixed**
+- ⚡ Fun fact: **There is nothing like cloud computing. It is just someone else's computer!**
 
 
 <h3 align="left">Languages and Tools:</h3>
