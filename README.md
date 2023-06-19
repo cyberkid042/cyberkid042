@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I am O.B</h1>
 <h3 align="center">A passionate Software Engineer</h3>
 
-- 🔭 I’m currently working on **a "side project/startup"**
-
 - 🌱 I’m currently learning **Dynamic Programming and Game Development**
 
 - 💬 Ask me about **Roku, React, React Native, VueJS, Laravel.**
