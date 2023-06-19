@@ -5,7 +5,7 @@
 
 - 💬 Ask me about **Roku, React, React Native, VueJS, Laravel.**
 
-- ⚡ Fun fact: **There is nothing like cloud computing. It is just someone else's computer!**
+- ⚡ Fun fact: **There is no such thing like cloud computing. It is just someone else's computer!**
 
 
 <h3 align="left">Languages and Tools:</h3>
