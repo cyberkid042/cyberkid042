@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Dynamic Programming and Game Development in Godot**
 
-- 💬 Ask me about **Roku (Scenegraph and Brightscript), React, React Native, VueJS, Laravel.**
+- 💬 Ask me about **Roku (Scenegraph and Brightscript), React, React Native, NodeJS & Express, VueJS, Laravel.**
 
 - ⚡ Fun fact: **The first computer “bug” was an actual real-life bug**
 
