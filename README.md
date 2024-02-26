@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I am O.B</h1>
 <h3 align="center">A passionate Software Engineer</h3>
 
-- 🌱 I’m currently learning **Dynamic Programming and Game Development in Godot**
+- 🌱 I’m currently learning **Game Development in UE5**
 
 - 💬 Ask me about **Roku Development, React, React Native, NodeJS & Express, VueJS, Laravel.**
 
