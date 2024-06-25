@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I am O...B</h1>
 <h3 align="center">A passionate Software Engineer</h3>
 
-- 🌱 I’m currently learning **Game Development in UE5**
+<!-- - 🌱 I’m currently learning **Game Development in UE5** -->
 
-- 💬 Ask me about **Roku Development, React, React Native, NodeJS & Express, VueJS, Laravel.**
+<!-- - 💬 Ask me about **Roku Development, React, React Native, NodeJS & Express, VueJS, Laravel.** -->
 
-- ⚡ Fun fact: **The first computer “bug” was an actual real-life bug**
+<!-- - ⚡ Fun fact: **The first computer “bug” was an actual real-life bug** -->
 
 
 <h3 align="left">Languages and Tools:</h3>
